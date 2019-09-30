@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Stopwatch
 //
-//  Created by Colin Masters on 2019-09-23.
+//  Created by Chan Nghiep Nguyen on 2019-09-30.
 //  Copyright © 2019 Langara. All rights reserved.
 //
 
